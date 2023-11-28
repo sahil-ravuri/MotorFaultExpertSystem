@@ -1,0 +1,100 @@
+motor overheating, loud noise=> bearing failure, image=https://www.istockphoto.com/photos/overheated-engine , https://www.shutterstock.com/search/loud-noise
+motor current spike, bearing vibration increase=> bearing failure, image=https://forums.mikeholt.com/threads/motor-current-spike.103740/ , https://www.researchgate.net/publication/243480771 Image resolution limits resulting from mechanical vibrations II - Experiment
+motor vibration increase, motor noise increase=> bearing failure, image=https://www.shutterstock.com/search/vibrating-motor , https://blog.roboflow.com/why-to-add-noise-to-images-for-machine-learning/
+motor temperature drop, motor efficiency drop=> bearing failure, image=https://www.shutterstock.com/search/temperature-drop , https://www.eng-tips.com/viewthread.cfm?qid=259447
+motor current spike, voltage fluctuation=> electrical fault, image=https://forums.mikeholt.com/threads/motor-current-spike.103740/ , https://www.sciencedirect.com/topics/engineering/voltage-fluctuation
+motor resistance increase, winding short circuit=> electrical fault, image=https://www.quora.com/When-we-add-more-resistance-then-what-will-happen-to-the-speed-of-a-motor , https://www.alamy.com/stock-photo/short-circuit.html
+motor open circuit, no power supply=> electrical fault, image=https://www.shutterstock.com/search/open-circuit , https://www.istockphoto.com/photos/no-power
+motor speed fluctuation, loose coupling=> mechanical fault, image=https://blog.orientalmotor.com/eliminate-motor-speed-fluctuations-due-to-input-voltage-or-load-variance , https://en.wikipedia.org/wiki/Loose coupling
+motor bearing wear, shaft misalignment=> mechanical fault, image=https://www.dreamstime.com/photos-images/motor-bearing.html , https://www.shutterstock.com/search/shaft-alignment
+motor winding overheating, motor noise increase=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2020/05/winding-overheating-reasons.jpg , https://pixabay.com/illustrations/noise-sound-loud-annoying-1507829/
+motor armature short circuit, motor speed drop=> electrical fault, image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Armature short circuit causes , remedies.png/1200px-Armature short circuit causes , remedies.png , https://pixabay.com/illustrations/speed-drop-velocity-arrow-down-1946874/
+motor field winding break, motor speed increase=> electrical fault, image=https://i.ytimg.com/vi/9b-6vI1a4h8/maxresdefault.jpg , https://pixabay.com/illustrations/speed-arrow-up-increase-velocity-1946875/
+motor commutator bar lifting, motor arcing=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2021/09/commutator-bar-lifting.jpg , https://pixabay.com/illustrations/electric-arc-electricity-power-1229388/
+motor brush wear, motor speed drop=> electrical fault, image=https://cdn.thomasnet.com/images/articles/2021/06/13/carbon-vs-copper-graphite-motor-brushes.jpg , https://pixabay.com/illustrations/speed-drop-velocity-arrow-down-1946874/
+motor bearing failure, motor noise increase=> mechanical fault, image=https://www.dreamstime.com/photos-images/motor-bearing.html , https://pixabay.com/illustrations/noise-sound-loud-annoying-1507829/
+motor shaft misalignment, motor vibration increase=> mechanical fault, image=https://www.shutterstock.com/search/shaft-alignment , https://pixabay.com/illustrations/vibration-shaking-oscillation-1948464/
+motor coupling failure, motor speed fluctuation=> mechanical fault, image=https://www.shutterstock.com/search/motor-coupling , https://pixabay.com/illustrations/speed-fluctuation-velocity-arrow-down-1946874/
+motor rotor imbalance, motor vibration increase=> mechanical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2022/06/rotor-imbalance-causes-,-effects.jpg , https://pixabay.com/illustrations/vibration-shaking-oscillation-1948464/
+motor fan imbalance, motor vibration increase=> mechanical fault, image=https://www.electricmotorwarehouse.com/blog/wp-content/uploads/2020/06/motor-fan.jpg , https://pixabay.com/illustrations/vibration-shaking-oscillation-1948464/
+motor winding insulation breakdown, motor current increase=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2020/03/winding-insulation-breakdown.jpg , https://pixabay.com/illustrations/current-electricity-power-ampere-1704666/
+motor stator core failure, motor noise increase=> electrical fault, image=https://cdn.thomasnet.com/images/articles/2019/10/17/how-to-choose-the-right-motor-stator-core.jpg , https://pixabay.com/illustrations/noise-sound-loud-annoying-1507829/
+motor terminal loosening, motor overheating=> electrical fault, image=https://cdn.thomasnet.com/images/articles/2022/03/31/terminal-blocks-,-wire-connectors.jpg , https://www.istockphoto.com/photos/overheated-engine
+motor power cable damage, motor intermittent operation=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2020/04/cable-damage-causes.jpg , https://pixabay.com/illustrations/intermittent-operation-failure-problem-1828041/
+motor overloading, motor overheating=> mechanical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2020/05/motor-overloading-reasons.jpg , https://www.istockphoto.com/photos/overheated-engine
+motor underloading, motor vibration increase=> mechanical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2020/05/motor-underloading-reasons.jpg , https://pixabay.com/illustrations/vibration-shaking-oscillation-1948464/
+motor misalignment, motor vibration increase=> mechanical fault, image=https://www.shutterstock.com/search/motor-misalignment , https://pixabay.com/illustrations/vibration-shaking-oscillation-1948464/
+motor foundation failure, motor vibration increase=> mechanical fault, image=https://www.shutterstock.com/search/motor-foundation , https://pixabay.com/illustrations/vibration-shaking-oscillation-1948464/
+motor lubrication failure, motor bearing wear=> mechanical fault, image=https://www.shutterstock.com/search/motor-lubrication , https://dreamstime.com/photos-images/motor-bearing.html
+motor cooling failure, motor overheating=> mechanical fault, image=https://www.shutterstock.com/search/motor-cooling , https://www.istockphoto.com/photos/overheated-engine
+motor winding short circuit, motor burnout=> electrical fault, image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Armature short circuit causes , remedies.png/1200px-Armature short circuit causes , remedies.png , https://shutterstock.com/search/motor-burnout
+motor armature open circuit, motor not starting=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2021/09/armature-open-circuit.jpg , https://icons8.com/icon/104076/not-starting
+motor field winding open circuit, motor not starting=> electrical fault, image=https://i.ytimg.com/vi/9b-6vI1a4h8/maxresdefault.jpg , https://icons8.com/icon/104076/not-starting
+motor brush wear, motor arcing=> electrical fault, image=https://cdn.thomasnet.com/images/articles/2021/06/13/carbon-vs-copper-graphite-motor-brushes.jpg , https://pixabay.com/illustrations/electric-arc-electricity-power-1229388/
+motor commutator bar burning, motor arcing=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2021/09/commutator-bar-lifting.jpg , https://pixabay.com/illustrations/electric-arc-electricity-power-1229388/
+motor bearing failure, motor seizure=> mechanical fault, image=https://www.dreamstime.com/photos-images/motor-bearing.html , https://www.shutterstock.com/search/motor-seizure
+motor shaft misalignment, motor premature wear=> mechanical fault, image=https://www.shutterstock.com/search/shaft-alignment , https://pixabay.com/illustrations/wear-,-tear-destruction-1636552/
+motor coupling failure, motor misalignment=> mechanical fault, image=https://www.shutterstock.com/search/motor-coupling , https://www.shutterstock.com/search/motor-misalignment
+motor rotor imbalance, motor premature wear=> mechanical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2022/06/rotor-imbalance-causes-,-effects.jpg , https://pixabay.com/illustrations/wear-,-tear-destruction-1636552/
+motor fan imbalance, motor premature wear=> mechanical fault, image=https://www.electricmotorwarehouse.com/blog/wp-content/uploads/2020/06/motor-fan.jpg , https://pixabay.com/illustrations/wear-,-tear-destruction-1636552/
+motor winding corrosion, motor current increase=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2020/06/winding-corrosion-causes-,-effects.jpg , https://pixabay.com/illustrations/current-electricity-power-ampere-1704666/
+motor terminal corrosion, motor heating=> electrical fault, image=https://cdn.thomasnet.com/images/articles/2022/03/31/terminal-blocks-,-wire-connectors.jpg , https://www.shutterstock.com/search/motor-heating
+motor power cable corrosion, motor intermittent operation=> electrical fault, image=https://www.shutterstock.com/search/motor-power-cable , https://pixabay.com/illustrations/intermittent-operation-failure-problem-1828041/
+motor bearing corrosion, motor noise increase=> mechanical fault, image=https://www.dreamstime.com/photos-images/motor-bearing.html , https://pixabay.com/illustrations/noise-sound-loud-annoying-1507829/
+motor shaft corrosion, motor vibration increase=> mechanical fault, image=https://www.shutterstock.com/search/shaft-corrosion , https://pixabay.com/illustrations/vibration-shaking-oscillation-1948464/
+motor coupling corrosion, motor misalignment=> mechanical fault, image=https://www.shutterstock.com/search/motor-coupling , https://www.shutterstock.com/search/motor-misalignment
+motor rotor corrosion, motor imbalance=> mechanical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2022/06/rotor-imbalance-causes-,-effects.jpg , https://pixabay.com/illustrations/imbalance-unbalanced-weight-1947122/
+motor fan corrosion, motor noise increase=> mechanical fault, image=https://www.electricmotorwarehouse.com/blog/wp-content/uploads/2020/06/motor-fan.jpg , https://pixabay.com/illustrations/noise-sound-loud-annoying-1507829/
+motor foundation corrosion, motor vibration increase=> mechanical fault, image=https://www.shutterstock.com/search/motor-foundation , https://pixabay.com/illustrations/vibration-shaking-oscillation-1948464/
+motor bolts loosening, motor misalignment=> mechanical fault, image=https://www.shutterstock.com/search/motor-bolts , https://www.shutterstock.com/search/motor-misalignment
+motor nuts loosening, motor vibration increase=> mechanical fault, image=https://www.shutterstock.com/search/motor-nuts , https://pixabay.com/illustrations/vibration-shaking-oscillation-1948464/
+motor winding ground fault, motor current increase=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2020/08/motor-winding-ground-fault.jpg , https://pixabay.com/illustrations/current-electricity-power-ampere-1704666/
+motor stator core ground fault, motor noise increase=> electrical fault, image=https://cdn.thomasnet.com/images/articles/2019/10/17/how-to-choose-the-right-motor-stator-core.jpg , https://pixabay.com/illustrations/noise-sound-loud-annoying-1507829/
+motor frame ground fault, motor vibration increase=> electrical fault, image=https://www.shutterstock.com/search/motor-frame , https://pixabay.com/illustrations/vibration-shaking-oscillation-1948464/
+motor bearing seizure, motor jamming=> mechanical fault, image=https://www.dreamstime.com/photos-images/motor-bearing.html , https://pixabay.com/illustrations/jamming-stop-stoppage-machine-1961666/
+motor shaft breakage, motor sudden stop=> mechanical fault, image=https://www.shutterstock.com/search/motor-shaft , https://pixabay.com/illustrations/sudden-stop-emergency-brake-halt-stop-1947725/
+motor coupling breakage, motor misalignment=> mechanical fault, image=https://www.shutterstock.com/search/motor-coupling , https://www.shutterstock.com/search/motor-misalignment
+motor rotor bar breakage, motor vibration increase=> mechanical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2022/06/rotor-bar-breakage.jpg , https://pixabay.com/illustrations/vibration-shaking-oscillation-1948464/
+motor fan blade breakage, motor noise increase=> mechanical fault, image=https://www.electricmotorwarehouse.com/blog/wp-content/uploads/2020/06/motor-fan.jpg , https://pixabay.com/illustrations/noise-sound-loud-annoying-1507829/
+motor foundation collapse, motor misalignment=> mechanical fault, image=https://www.shutterstock.com/search/motor-foundation , https://www.shutterstock.com/search/motor-misalignment
+motor mounting bolts failure, motor vibration increase=> mechanical fault, image=https://www.shutterstock.com/search/motor-mounting-bolts , https://pixabay.com/illustrations/vibration-shaking-oscillation-1948464/
+motor winding contamination, motor current increase=> electrical fault, image=https://www.shutterstock.com/search/motor-winding-contamination
+motor stator core contamination, motor noise increase=> electrical fault, image=https://www.shutterstock.com/search/motor-stator-core-contamination
+motor frame contamination, motor vibration increase=> electrical fault, image=https://www.shutterstock.com/search/motor-frame-contamination
+motor bearing misalignment, motor noise increase=> mechanical fault, image=https://www.shutterstock.com/search/motor-bearing-misalignment
+motor shaft bent, motor vibration increase=> mechanical fault, image=https://www.shutterstock.com/search/motor-shaft-bent
+motor coupling misalignment, motor misalignment=> mechanical fault, image=https://www.shutterstock.com/search/motor-coupling-misalignment
+motor rotor imbalance, motor vibration increase=> mechanical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2022/06/rotor-imbalance-causes-,-effects.jpg
+motor fan imbalance, motor noise increase=> mechanical fault, image=https://www.electricmotorwarehouse.com/blog/wp-content/uploads/2020/06/motor-fan.jpg
+motor foundation settlement, motor misalignment=> mechanical fault, image=https://www.shutterstock.com/search/motor-foundation-settlement
+motor mounting hardware loose, motor vibration increase=> mechanical fault, image=https://www.shutterstock.com/search/motor-mounting-hardware
+motor winding moisture, motor current increase=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2020/08/winding-moisture-problems.jpg
+motor stator core moisture, motor noise increase=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2020/09/motor-stator-core-testing.jpg
+motor frame moisture, motor vibration increase=> electrical fault, image=https://www.shutterstock.com/search/motor-frame-moisture
+motor bearing wear, motor noise increase=> mechanical fault, image=https://www.shutterstock.com/search/motor-bearing-wear
+motor shaft misalignment, motor vibration increase=> mechanical fault, image=https://www.shutterstock.com/search/motor-shaft-misalignment
+motor coupling wear, motor misalignment=> mechanical fault, image=https://www.shutterstock.com/search/motor-coupling-wear
+motor rotor wear, motor vibration increase=> mechanical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2022/06/rotor-wear.jpg
+motor fan wear, motor noise increase=> mechanical fault, image=https://www.electricmotorwarehouse.com/blog/wp-content/uploads/2020/06/motor-fan-wear.jpg
+motor foundation uneven, motor misalignment=> mechanical fault, image=https://www.shutterstock.com/search/motor-foundation-uneven
+motor mounting bolts corroded, motor vibration increase=> mechanical fault, image=https://www.shutterstock.com/search/motor-mounting-bolts-corroded
+motor winding loose connections, motor intermittent operation=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2020/03/loose-connections.jpg
+motor stator core loose laminations, motor noise increase=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2020/09/stator-core-testing.jpg
+motor frame loose mounting, motor vibration increase=> mechanical fault, image=https://www.google.com/url?sa=i&url=https%3A%2F%2Fmetropolitangarage.com%2Fblog%2Funderstanding-motor-mounts-symptoms-and-repairs&psig=AOvVaw2iyY-DevEVVwHGiXyr-tiv&ust=1701216639363000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDa4P2z5YIDFQAAAAAdAAAAABAE
+motor bearing overheating, motor seizure=> mechanical fault, image=https://www.dreamstime.com/photos-images/motor-bearing.html
+motor shaft fatigue, motor sudden stop=> mechanical fault, image=https://www.shutterstock.com/search/motor-shaft-fatigue
+motor coupling damage, motor misalignment=> mechanical fault, image=https://www.shutterstock.com/search/motor-coupling-damage
+motor rotor cracks, motor vibration increase=> mechanical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2022/06/rotor-cracks.jpg
+motor fan damaged, motor noise increase=> mechanical fault, image=https://www.electricmotorwarehouse.com/blog/wp-content/uploads/2020/06/damaged-motor-fan.jpg
+motor foundation cracks, motor misalignment=> mechanical fault, image=https://www.shutterstock.com/search/motor-foundation-cracks
+motor mounting hardware damaged, motor vibration increase=> mechanical fault, image=https://www.shutterstock.com/search/motor-mounting-hardware-damaged
+motor winding insulation breakdown, motor current leakage=> electrical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2020/03/winding-insulation-breakdown.jpg
+motor stator core looseness, motor noise, vibration => mechanical fault, image=https://cdn.thomasnet.com/images/articles/2019/10/17/how-to-choose-the-right-motor-stator-core.jpg
+motor frame corrosion, motor vibration , noise=> mechanical fault, image=https://www.shutterstock.com/search/motor-frame-corrosion
+motor bearing race damage, motor noise , vibration=> mechanical fault, image=https://www.dreamstime.com/photos-images/motor-bearing.html
+motor shaft wear, motor noise , vibration=> mechanical fault, image=https://www.shutterstock.com/search/motor-shaft-wear
+motor coupling misalignment, motor misalignment , vibration=> mechanical fault, image=https://www.shutterstock.com/search/motor-coupling-misalignment
+motor rotor looseness, motor vibration , imbalance=> mechanical fault, image=https://www.electricaltechnology.com/wp-content/uploads/2022/06/rotor-looseness.jpg
+motor fan blade imbalance, motor vibration , noise=> mechanical fault, image=https://www.electricmotorwarehouse.com/blog/wp-content/uploads/2020/06/motor-fan-imbalance.jpg
+motor foundation unevenness, motor misalignment , vibration=> mechanical fault, image=https://www.shutterstock.com/search/motor-foundation-unevenness
+motor mounting hardware looseness, motor vibration , noise=> mechanical fault, image=https://www.shutterstock.com/search/motor-mounting-hardware-looseness
